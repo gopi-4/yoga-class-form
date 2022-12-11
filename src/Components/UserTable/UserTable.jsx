@@ -20,6 +20,7 @@ export default function BasicTable({ users }) {
 
     return (
         <TableContainer component={Paper} className="table-container">
+            <h1 className="center">Registered Users</h1>
             <Table sx={{ minWidth: 300, maxWidth: 800, margin: "auto" }}>
                 <TableHead>
                     <TableRow>

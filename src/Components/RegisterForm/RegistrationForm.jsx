@@ -156,6 +156,7 @@ export default function RegistrationForm({ users, setUsers }) {
             <div className="container">
                 <Container className="form">
                     <FormControl fullWidth sx={{ m: 1 }}>
+                        <h1>Application Form</h1>
                         <div className="input">
                             <TextField
                                 label="Name"

@@ -115,6 +115,7 @@ export default function NavBar({ setShowForm }) {
                         YOGI
                     </Typography>
                     <Box
+                        style={{marginLeft: "80%"}}
                         sx={{
                             flexGrow: 1,
                             display: { xs: "none", md: "flex" }
