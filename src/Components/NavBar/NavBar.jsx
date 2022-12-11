@@ -35,7 +35,7 @@ export default function NavBar({ setShowForm }) {
                         variant="h6"
                         noWrap
                         component="a"
-                        href="/"
+                        href="/yoga-class-form/"
                         sx={{
                             mr: 2,
                             display: { xs: "none", md: "flex" },
