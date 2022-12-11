@@ -16,7 +16,7 @@ export default function BasicTable({ users }) {
     slotMap.set("1", "6-7 AM");
     slotMap.set("2", "7-8 AM");
     slotMap.set("3", "8-9 AM");
-    slotMap.set("4", "5-6 AM");
+    slotMap.set("4", "5-6 PM");
 
     return (
         <TableContainer component={Paper} className="table-container">
@@ -30,7 +30,7 @@ export default function BasicTable({ users }) {
                         >
                             Name
                         </TableCell>
-                        <TableCell align="right" className="table-head">
+                        <TableCell className="table-head" align="right">
                             Slot
                         </TableCell>
                         <TableCell
