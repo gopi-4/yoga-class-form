@@ -1,0 +1,38 @@
+.input {
+    padding-bottom: 10px;
+    margin-right: 16px;
+}
+
+.date-picker {
+    width: 100% !important;
+}
+
+.form {
+    display: flex !important;
+    flex-direction: column;
+    max-width: 700px !important;
+    justify-content: center;
+    height: 550px;
+    border-radius: 50px;
+    background-color: #fff;
+    box-shadow: 0 0 128px 0 rgba(0, 0, 0, 0.1),
+        0 32px 64px -48px rgba(0, 0, 0, 0.5);
+}
+
+.error-message {
+    color: #d32f2f;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    font-size: 0.75rem;
+    line-height: 1.66;
+    letter-spacing: 0.03333em;
+    text-align: left;
+    margin-top: 3px;
+    margin-right: 14px;
+    margin-bottom: 0;
+    margin-left: 14px;
+}
+
+.container {
+    margin-top: 3%;
+}
