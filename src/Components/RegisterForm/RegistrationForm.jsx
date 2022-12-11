@@ -257,6 +257,7 @@ export default function RegistrationForm({ users, setUsers }) {
                     <Button variant="contained" onClick={handleSubmit}>
                         Pay ₹500 & Join Yoga Class
                     </Button>
+                    <h1> </h1>
                 </Container>
             </div>
             <SimpleToast
