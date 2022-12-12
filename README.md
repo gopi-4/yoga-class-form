@@ -4,7 +4,7 @@
 ![work_flow](https://user-images.githubusercontent.com/78689282/206988995-b81514c5-b65c-41b5-86f1-2871e8e1da20.jpg)
 
 ## Deployment
-  - Deployed on githib pages.
+  - Deployed on github pages.
   - [YOGI](https://gopi-4.github.io/yoga-class-form/)
 
 ## Testing Credentials
