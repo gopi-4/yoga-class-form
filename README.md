@@ -1,5 +1,8 @@
 ## YOGI FrontEnd
-  - FrondEnd of an application form to join a yoga class.
+  - Single page application, click on YOGI to reload .
+  - At home you can see all the registered users.
+  - To register fill the application form.
+  - Frontend validation checks on Input fields.
 ## Work Flow
 ![work_flow](https://user-images.githubusercontent.com/78689282/206988995-b81514c5-b65c-41b5-86f1-2871e8e1da20.jpg)
 
