@@ -31,10 +31,6 @@
   npm install
   npm start
   ```
-  Run the server.
-  ```node
-  npm start
-  ```
   
 ## Authors
 
